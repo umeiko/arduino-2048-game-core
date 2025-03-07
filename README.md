@@ -1,10 +1,6 @@
 # arduino-2048-game-core
 A basic 2048-game engine based on arduino that easy to apply
 
-# 2048 Game for Arduino
-
-This project implements the 2048 game on an Arduino platform.
-
 ## Functions
 
 ### `void init_board()`
